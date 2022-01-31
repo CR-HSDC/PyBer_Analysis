@@ -12,7 +12,7 @@ The purpose of this PyBer analysis, is to assess business metrics from the perio
   	5. Average fare per driver by location type 
 
 
-* Additionally, fare totals are summarised in *Figure 7* to provide an overall view of PyBer performance and weekly variations, across the Rural, Suburban and Urban location types.
+* Additionally, fare totals are summarised in *Figure 2* to provide an overall view of PyBer performance and weekly variations, across the Rural, Suburban and Urban location types.
 
 These findings are discussed within the "PyBer Analysis Results" section below.
 
