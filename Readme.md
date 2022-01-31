@@ -21,7 +21,7 @@ These findings are discussed within the "PyBer Analysis Results" section below.
 
 The results of the updated analysis are summarized in in *Figure 1* to *Figure 9*. Results are discussed below these figures.
 
-![Figure 1](https://github.com/CR-HSDC/PyBer_Analysis/blob/main/analysis/PyBer_fare_summary.png)
+![Figure 1](https://github.com/CR-HSDC/PyBer_Analysis/blob/main/analysis/StatsSummary.png)
 **_Figure 1_:** Statistics Summary
 
   * **Total Rides by Location Type:**
@@ -39,7 +39,7 @@ The results of the updated analysis are summarized in in *Figure 1* to *Figure 9
   	* Per *Figure 1* Rural locations have the highest average fare per driver, for the perdio of analysis, at $55.49; Urban locations have the least at $16.57 
 
 
-![Figure 2](https://github.com/CR-HSDC/PyBer_Analysis/blob/main/analysis/StatsSummary.png)
+![Figure 2](https://github.com/CR-HSDC/PyBer_Analysis/blob/main/analysis/PyBer_fare_summary.png)
 **_Figure 2_:** Weekly Total Fares by Location Type
 
   * **Weekly Total Fares by Location Type:** 
